@@ -1,0 +1,4 @@
+numpy>=1.15
+pandas>=0.23
+seaborn==0.11.2
+sklearn==1.0.2
