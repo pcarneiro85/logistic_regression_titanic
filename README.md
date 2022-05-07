@@ -1,7 +1,7 @@
 # Logistic Regression Analysis of the Titanic Data Set
 
 ## This analysis was the second project of the course I2A2-ABDI.
-The dataset used in this analysis can be found [here](https://github.com/vsvasconcelos/i2a2/blob/main/titanic-data.csv)
+The dataset used in this analysis can be found [here](https://github.com/vsvasconcelos/i2a2/blob/main/titanic-data.csv) PS: I had to upload the raw csv file due to a parsing error while importing the file directly from the web.
 
 The step-by-step instructions on how to analyse this dataset was explained in `section 3 - Regression Models` of the course `Python for Data Science Essential Training Part 2`.
 
