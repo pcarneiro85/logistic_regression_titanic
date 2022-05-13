@@ -23,3 +23,4 @@ The link to that section of the course can be found [here](https://www.linkedin.
 * All predictors are independent of each other
 * There are at least 50 observations per predictor variable (to ensure reliable results)
 
+test
